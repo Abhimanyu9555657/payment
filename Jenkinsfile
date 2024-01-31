@@ -1,3 +1,5 @@
 @Library('roboshop') _
 
-demo()
+env.codeType="python"
+env.component="payment"
+cipipeline()
